@@ -1,0 +1,5 @@
+{
+	"shell_cmd": "$project_path/my_build.sh",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.ocaml"
+}
