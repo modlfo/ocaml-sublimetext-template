@@ -7,4 +7,4 @@ Simple template to work with small ocaml projects in sublimetext
 
  The current script executes main.native after a successful build.
 
- To use merlin install https://github.com/def-lkb/sublime-text-merlin.git
+ To use merlin install https://github.com/Cynddl/sublime-text-merlin/
